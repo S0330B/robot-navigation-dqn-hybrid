@@ -1,0 +1,1 @@
+#to train the model use the command 
